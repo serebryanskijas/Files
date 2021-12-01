@@ -1,0 +1,2 @@
+public class WriteXML {
+}
