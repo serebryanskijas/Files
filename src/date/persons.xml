@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <id>1</id>
+        <name>Tex</name>
+        <phone>+375292003473</phone>
+        <emails>
+            <email>111@mail.com</email>
+            <email>222@mail.com</email>
+            <email>333@mail.com</email>
+        </emails>
+    </person>
+    <person>
+        <id>2</id>
+        <name>Mex</name>
+        <phone>+375292003474</phone>
+        <emails>
+            <email>11@mail.com</email>
+            <email>22@mail.com</email>
+            <email>33@mail.com</email>
+        </emails>
+    </person>
+</persons>

@@ -1,10 +1,16 @@
 import java.io.Serializable;
 import java.util.List;
+import javax.xml.bind.annotation.*;
 
+
+@XmlRootElement(name = "person")
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Person implements Serializable {
     private int id;
     private String name;
     private String phone;
+    @XmlElementWrapper(name = "emails")
+    @XmlElement(name = "email")
     private List<String> emails;
 
     Person(){}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <id>1</id>
+    <name>Alex</name>
+    <phone>+375292003472</phone>
+    <emails>
+        <email>1@mail.com</email>
+        <email>2@mail.com</email>
+        <email>3@mail.com</email>
+    </emails>
+</person>
